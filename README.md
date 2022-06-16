@@ -1,5 +1,5 @@
-### Sejam bem vindos 
-Olá pessoal, meu nome é Mateus Tavares e estudo Programação e Desenvolvimento Front-End a pouco tempo,
+### Olá Pessoal!
+Meu nome é Mateus Tavares e estudo Programação e Desenvolvimento Front-End a pouco tempo,
 sou apaixonado por coisas novas e tecnologia.
 <div align="center">
   <a href="https://github.com/teus-tavares">
