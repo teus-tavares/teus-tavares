@@ -1,2 +1,3 @@
-### Hi there 👋
-Olá pessoal, tudo bem com voces??
+### Sejam bem vindos 
+Olá pessoal, meu nome é Mateus Tavares e estudo Programação e Desenvolvimento Front-End a pouco tempo
+sou apaixonado por coisas nvas e tecnologia.
