@@ -3,8 +3,8 @@ Meu nome é Mateus Tavares e estudo Programação e Desenvolvimento Front-End a 
 sou apaixonado por coisas novas e tecnologia.
 <div align="center">
   <a href="https://github.com/teus-tavares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teus-tavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus-tavares&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=teus-tavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus-tavares&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
